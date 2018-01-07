@@ -140,5 +140,5 @@
   - Dictionary.com
 
 ## 贡献
-  欢迎提交单词，可以在 [words.yaml](https://github.com/zunpiau/IT-Pronunciation/master/src/main/resources/words.yaml) 中添加，执行 `Converter` 批量翻译  
+  欢迎提交单词，可以在 [words.yaml](https://github.com/zunpiau/IT-Pronunciation/blob/master/src/main/resources/words.yaml) 中添加，执行 `Converter` 批量翻译  
   音标主要来自有道翻译美式音标，参考了维基百科。专业性有所不足，欢迎修改
